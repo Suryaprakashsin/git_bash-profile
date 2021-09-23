@@ -1,0 +1,10 @@
+what is clone?
+git clone is a git command line utlility which is used to target an exicting repository and create a clone,
+or copy of the target repository.
+
+Git Clone
+The git clone command is used to create an identical copy of an existing repository.
+
+status update
+the empty one that we created with the git init command
+the one we cloned with the git clone command
