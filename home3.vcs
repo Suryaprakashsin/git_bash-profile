@@ -1,0 +1,13 @@
+Before you can make commits or do anything else with a git repository, the repository needs to actually exist. To create a new repository with Git, we'll use the git init command.
+
+The init subcommand is short for "initialize", which is helpful because it's the command that will do all of the initial setup of a repository. We'll look at what it does in just a second.
+
+Required Commands
+
+ls - used to list files and directories
+mkdir - used to create a new directory
+cd - used to change directories
+rm - used to remove files and directorie
+
+Git Init's Effect
+Running the git init command sets up all of the necessary files and directories that Git will use to keep track of everything. All of these files are stored in a directory called .git (notice the . at the beginning - that means it'll be a hidden directory on Mac/Linux). This .git directory is the "repo"! This is where git records all of the commits and keeps track of everything!
